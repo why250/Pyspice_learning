@@ -1,0 +1,24 @@
+# --- Python 虚拟环境 ---
+# 你的文件夹叫 pyspice_learning/，绝对不要提交它
+pyspice_learning/
+
+# --- Jupyter Notebook 缓存 ---
+.ipynb_checkpoints/
+
+# --- LaTeX 编译产生的临时文件 ---
+# 这些是由 %%tikz 或 pdflatex 生成的，不需要版本控制
+*.aux
+*.log
+*.pdf
+*.gz
+*.toc
+*.out
+
+# --- Python 编译缓存 ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- 操作系统文件 ---
+.DS_Store
+Thumbs.db
